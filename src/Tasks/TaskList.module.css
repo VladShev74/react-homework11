@@ -1,0 +1,23 @@
+.id {
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+}
+
+.text {
+    font-family: 'Lato', sans-serif;
+    width: 600px;
+}
+
+.button {
+    font-family: 'Lato', sans-serif;
+    padding: 10px 15px;
+    border: 2px solid #221f1f;
+    background-color: #f84147;
+    border-radius: 35px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.button:focus {
+    outline: none;
+}

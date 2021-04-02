@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+.section {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+.button {
+    font-family: 'Lato', sans-serif;
+    margin-top: 20px;
+    padding: 20px 30px;
+    border: 2px solid #221f1f;
+    background-color: #00a046;
+    border-radius: 35px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.button:focus {
+    outline: none;
+}
