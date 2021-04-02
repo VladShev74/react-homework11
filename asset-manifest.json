@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-homework11/static/css/main.44152c9d.chunk.css",
+    "main.js": "/react-homework11/static/js/main.91ce7cbb.chunk.js",
+    "main.js.map": "/react-homework11/static/js/main.91ce7cbb.chunk.js.map",
+    "runtime-main.js": "/react-homework11/static/js/runtime-main.0132b6e9.js",
+    "runtime-main.js.map": "/react-homework11/static/js/runtime-main.0132b6e9.js.map",
+    "static/js/2.9e877c49.chunk.js": "/react-homework11/static/js/2.9e877c49.chunk.js",
+    "static/js/2.9e877c49.chunk.js.map": "/react-homework11/static/js/2.9e877c49.chunk.js.map",
+    "index.html": "/react-homework11/index.html",
+    "static/css/main.44152c9d.chunk.css.map": "/react-homework11/static/css/main.44152c9d.chunk.css.map",
+    "static/js/2.9e877c49.chunk.js.LICENSE.txt": "/react-homework11/static/js/2.9e877c49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0132b6e9.js",
+    "static/js/2.9e877c49.chunk.js",
+    "static/css/main.44152c9d.chunk.css",
+    "static/js/main.91ce7cbb.chunk.js"
+  ]
+}
